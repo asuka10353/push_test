@@ -1,0 +1,99 @@
+header {
+  background-color: #33cccc;
+  height: 54px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.header_logo {
+  font-family: 'Courier',sans-serif;
+  margin: 7px 0;
+  font-size: 36px;
+  float: left;
+}
+
+.header_message {
+  font-size: 16px;
+  color: white;
+  background-color: gray;
+  float: left;
+  padding: 3px 10px;
+  margin: 12px 20px;
+}
+
+.top {
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  background-image: url(images/merlion.jpg);
+  background-size: cover;
+  opacity: 70%;
+}
+
+.main {
+  width: 800px;
+  /* padding: 0 50px; */
+  margin: 0 auto;
+}
+
+.introduction {
+  width: 800px;
+  /* padding: 8px 8px; */
+  margin: 80px 0;
+
+}
+
+.practice {
+  margin-bottom: 80px;
+}
+
+.box {
+  width: 800px;
+  padding: 0;
+  margin-bottom: 28px;
+}
+
+.trial {
+  width: 800px;
+  /* padding: 8px 8px; */
+  margin-bottom: 80px;  
+}
+
+.footer {
+  background-color: #33cccc;
+  height: 46px;
+}
+
+.footer_logo {
+  font-family: 'Courier',sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 12px 0;
+}
+
+h1 {
+  padding: 200px 80px;
+  color: #ffffcc;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 24px;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 20px;
+  margin: 0;
+}
+
+p {
+  margin: 5px 0;
+}
+
+.email {
+  color: blue;
+}
+
